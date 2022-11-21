@@ -4,11 +4,11 @@ This is a homebrew tap for the Library for Efficient Modeling and Optimization i
 Useful for installing [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD), where the dependencies would become a one-liner:
 
 ```
-brew install bison boost cmake donn/lemon-graph/lemon-graph eigen flex git libomp ninja pyqt5 python spdlog swig tcl-tk zlib
+brew install bison boost cmake The-OpenROAD-Project/lemon-graph/lemon-graph eigen flex git libomp ninja pyqt5 python spdlog swig tcl-tk zlib
 ```
 
 # Usage
-`brew install donn/lemon-graph/lemon-graph`
+`brew install The-OpenROAD-Project/lemon-graph/lemon-graph`
 
 # License
 2-clause BSD license. See 'License'.
